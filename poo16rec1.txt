@@ -1,0 +1,15 @@
+
+Alínea 1) ----------------------------------
+
+Festival 'UA Alive' (Local: Campus Universitario de Santiago)Evento: Tito Paris, dia 20160801:20:00, (Música no palco Palco Salinas)
+Evento: Chet Faker, dia 20160801:22:00, (Música no palco Palco Alameda)
+Evento: Noora Noor, dia 20160802:22:00, (Música no palco Palco Sul)
+Evento: Workshop de cozinha, dia 20160801:17:00, (Animação com lotação = 25, custo = 32.5 euros)
+Evento: Voleibol de praia, dia 20160801:11:00, (false)
+Evento: Overwatch, dia 20160802:23:00, (false)
+[Tasca: Prego a fundo (custo = 7.5 euros), Tasca: O cheiroso (custo = 9.0 euros)]
+[Tasca: Prego a fundo (custo = 7.5 euros), Tasca: O cheiroso (custo = 9.0 euros)]
+
+
+Alínea 2) ----------------------------------
+

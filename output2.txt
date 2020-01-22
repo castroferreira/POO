@@ -1,0 +1,19 @@
+
+
+ESCOLA
+Nome: International House Aveiro, Endereco: Rua Domingos Carrancho, 1, 3800-145 Aveiro
+Testes
+[-- Teste Computador http://www.ihaveiro.com/outras-linguas/tii, Prazo: 0
+ Italiano Intermédio Luca Benini 25 01.06.2015 10h
+, 
+-- Exame Escrito 
+Consulta: true, Versao 4, Prazo: 6
+ Inglês para Empresas Anthony Laurel 15; 22 12.06.2015 15h
+, 
+-- Prova Oral UK
+ Inglês Avançado Anthony Laurel 3 05.06.2015 10h
+, 
+-- Exame Escrito 
+Consulta: false, Versao 0, Prazo: 0
+ Alemão Manfred Glesner 13 12.06.2015 10h
+]

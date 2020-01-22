@@ -1,0 +1,8 @@
+Loja do Zé, Rua Domingos Carrancho, 15, 3800-145 Aveiro
+
+ALIMENTOS
+Lacteo [Nome: Iogurte Natural Danone, Preco: 1.48, Calorias: 56.0Teor Gordura: 4.0, Temperatura Minima: 0, Temperatura Maxima: 0]
+Lacteo [Nome: Leite UHT Meio Gordo Mimosa, Preco: 0.64, Calorias: 46.0Teor Gordura: 1.7, Temperatura Minima: 0, Temperatura Maxima: 0]
+Cereal [Nome: Nestlé Fitness, Preco: 1.59, Calorias: 200.0, Composicao: Arroz e trigo]
+Refrigerante [Nome: Cola Cola, Preco: 1.12, Calorias: 300.0, Temp Min: 0, Temp Max: 0]
+
